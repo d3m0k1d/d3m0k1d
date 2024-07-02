@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on ???  
   
 
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently learning Python,Rust  
   
 
 - ⚡ Fun fact: ex coach from CS2  
