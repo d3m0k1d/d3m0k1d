@@ -14,7 +14,11 @@
 - ⚡ Fun fact: ex coach from CS2  
   
 
-<br/>  
+<br/> 
+
+<div align="center">
+  <img src="https://www.codewars.com/users/d3m0k1d/badges/large" alt="Codewars Badge" />
+</div>
 
 
 ## My Skill Set  
