@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on ???  
   
 
-- 🌱 I’m currently learning Python,Rust  
+- 🌱 I’m currently learning Python,Golang,C
   
 
 - ⚡ Fun fact: ex coach from CS2  
