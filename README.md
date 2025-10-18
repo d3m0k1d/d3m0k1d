@@ -38,10 +38,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=d3m0k1d&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=d3m0k1d&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=d3m0k1d&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![d3m0k1d's Stats](https://github-readme-stats.vercel.app/api?username=d3m0k1d&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![d3m0k1d's Streak](https://github-readme-streak-stats.herokuapp.com/?user=d3m0k1d&theme=dark&hide_border=false)
+![d3m0k1d's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3m0k1d&theme=dark&show_icons=true&hide_border=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=d3m0k1d&icon=0&color=0)](https://visitcount.itsvg.in)
 
