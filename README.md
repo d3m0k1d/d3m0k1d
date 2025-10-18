@@ -42,7 +42,6 @@
 ![d3m0k1d's Streak](https://github-readme-streak-stats.herokuapp.com/?user=d3m0k1d&theme=dark&hide_border=false)
 ![d3m0k1d's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3m0k1d&theme=dark&show_icons=true&hide_border=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=d3m0k1d&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
 
