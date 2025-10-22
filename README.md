@@ -5,7 +5,7 @@
 ### <div align="center">I'm d3m0k1d young developer from Russia🌱</div>  
   
 
-- 🔭 I’m currently working on ???  
+- 🔭 I’m currently working on my dotfiles and website  
   
 
 - 🌱 I’m currently learning Python,Golang,C
