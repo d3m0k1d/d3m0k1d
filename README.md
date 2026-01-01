@@ -2,10 +2,10 @@
 </div>  
   
 
-### <div align="center">I'm d3m0k1d young developer from Russia🌱</div>  
+### <div align="center">I'm d3m0k1d Backend Dev/DevOps from Russia🌱</div>  
   
 
-- 🔭 I’m currently working on my dotfiles and website  
+- 🔭 I’m currently working on my dotfiles and d3m0k1d.ru
   
 
 - 🌱 I’m currently learning Python,Golang,C
