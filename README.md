@@ -5,7 +5,7 @@
 ### <div align="center">I'm d3m0k1d Backend Dev/DevOps from Russia🌱</div>  
   
 
-- 🔭 I’m currently working on my personal project source code on ![Gitea](https://gitea.d3m0k1d.ru/d3m0k1d)
+- 🔭 I'm currently working on my personal project source code on [Gitea](https://gitea.d3m0k1d.ru/d3m0k1d)
   
 
 - 🌱 I’m currently learning Python,Golang,C
